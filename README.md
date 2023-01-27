@@ -19,7 +19,8 @@ Step 5:
 Add images and other contents using CSS record a screenshot of it.
 
 Output:
-output
+![image](https://user-images.githubusercontent.com/118707090/215039015-164d8094-54e5-492a-8bdf-4912f9aa0681.png)
+
 
 Code:
 HTML:
